@@ -1,5 +1,9 @@
 # Distance-Based LED Indicator
 This Arduino project uses an ultrasonic sensor to detect distance and lights up LEDs based on how close an object is.
+## Demo
+
+https://github.com/user-attachments/assets/21f8be4c-b87e-46b7-8914-0d4d0226b318
+
 ## Concept
 1. Ultrasonic Sensor (HC-SR04): Measures the distance to an object
 2. LED1 (Red): Turns ON if distance < 20 cm
